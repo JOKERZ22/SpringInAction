@@ -47,3 +47,7 @@
 [第18章 使用JMX监控](../SpringInAction/notes/部署Spring/使用JMX监控.md)
 
 [第19章 部署Spring](../SpringInAction/notes/部署Spring/部署Spring.md)
+
+## 配套资源
+
+[示例代码和彩图](../SpringInAction/resource/示例代码和彩图.zip)
