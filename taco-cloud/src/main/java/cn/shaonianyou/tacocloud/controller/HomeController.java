@@ -12,6 +12,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class HomeController {
 
+    /**
+     * 主页跳转
+     *
+     * @return
+     */
     @GetMapping("/")
     public String home() {
         return "home";
